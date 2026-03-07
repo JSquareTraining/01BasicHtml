@@ -97,7 +97,7 @@ Right-click the project and select Open Folder in File Explorer.
 Double-click Registration.html to open it in your browser.
 
 📸 Output
-![Create Account Form Output](output.png)
+![Create Account Form Output](output01.png)
 
 💡 Purpose of This Project
 
